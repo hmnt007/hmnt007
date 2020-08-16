@@ -26,7 +26,7 @@
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=hmnt007.hmnt007)
 
-I'm a Second year Post Grad student pursuing Master's in Computer Application 🎓 from Department of Computer Science, University of Delhi 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web and Andriod Development 🕸️ and mainly working on Data Structures and Algorithms 🤓.
+I'm a Second year Post Grad student pursuing Master's in Computer Application 🎓 from Department of Computer Science, University of Delhi 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.💻. I've learnt Redhat8, Docker and Python Essentials🕸️ and now focusing on my Data Structures and Algorithms 🤓.
 
 <br />
 
@@ -34,10 +34,10 @@ I'm a Second year Post Grad student pursuing Master's in Computer Application �
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
-- 👨🏻‍💻 I’m currently learning Full Stack Development 🚀 and CP Algorithms.
+- 🛠 I’m currently working with C++, Python <br /> and Javascript💻.
+- 👨🏻‍💻 I’m currently learning Web Development 🚀 and Network Security.
 - 💬 Ask me about anything! I am happy to help.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+- ⚡ Fun fact: There is always a nounce to every data.
 - 📫 How to reach me: hemant.mca19.du@gmail.com
 
 ### Languages and Tools:
