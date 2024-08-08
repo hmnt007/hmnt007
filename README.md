@@ -34,8 +34,8 @@ I've done Post Grad student pursuing Master's in Computer Application 🎓 from 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with C++, Python <br /> and Javascript💻.
-- 👨🏻‍💻 I’m currently learning Web Development 🚀 and Network Security.
+- 🛠 I’m currently working with JAVA, Python <br /> and Javascript💻.
+- 👨🏻‍💻 I’m currently contributing to Web Development 🚀 and API Security.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: There is always a nounce to every data.
 - 📫 How to reach me: hemant.mca19.du@gmail.com
