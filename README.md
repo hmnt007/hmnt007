@@ -25,7 +25,7 @@
 <br />
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=hmnt007.hmnt007)
-Currently, working as a Senior Software Enginner at InfoEdge India Limited with a work experience of about 2+ years now. I have worked with designing & improving stable backend systems, crawling websites to generate data for real life use cases, security enhancements of public APIs, etc.
+Currently, working as a Lead Enginner at InfoEdge India Limited with a work experience of about 3+ years now. I have worked with designing & improving stable backend systems, crawling websites to generate data for real life use cases, security enhancements of public APIs, etc.
 I've done Post Grad student pursuing Master's in Computer Application 🎓 from Department of Computer Science, University of Delhi 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.💻. I've aquired skills in Java, C++, Gitlab, Selinium Browsers, Javascipt, Redhat8, Docker and Python 🕸️ and now focusing on growing my carreer learning new skills and addind values to my workspace and life 🤓.
 
 <br />
@@ -38,7 +38,7 @@ I've done Post Grad student pursuing Master's in Computer Application 🎓 from 
 - 👨🏻‍💻 I’m currently contributing to Web Development 🚀 and API Security.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: There is always a nounce to every data.
-- 📫 How to reach me: hemant.mca19.du@gmail.com
+- 📫 How to reach me: tech.hemant.k@gmail.com
 
 ### Languages and Tools:
 
